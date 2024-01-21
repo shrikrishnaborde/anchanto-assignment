@@ -1,0 +1,26 @@
+:host {
+    display: block;
+    height: 100%;
+    padding: 10px;
+}
+
+.component__body__container {
+    display: flex;
+    flex-direction: column;
+    height: inherit;
+}
+
+.component__body {
+    display: grid;
+    grid-template-columns: 1fr 8fr;
+    grid-column-gap: 10px;
+    flex-grow: 1;
+}
+
+.component__body__text {
+    border: 2px solid black;
+    max-height: 200px;
+    height: auto;
+    padding: 10px;
+    overflow: auto;
+}

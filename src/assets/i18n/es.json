@@ -1,0 +1,20 @@
+{
+    "welcomeMessage": "¡Buenos días tenga un gran día!",
+    "parentComponent": "Componente principal",
+    "parameterValue": "valor del parámetro",
+    "firstComponent": "Primer componente",
+    "secondComponent": "Segundo componente",
+    "thirdComponent": "Tercer componente",
+    "fourthComponent": "Cuarto Componente",
+    "fifthComponent": "Quinto Componente",
+    "sixthComponent": "sexto componente",
+    "selectedLanguage": "Idioma seleccionado",
+    "selectedParamValue": "Valor de parámetro seleccionado",
+    "English": "Inglés",
+    "French": "Francés",
+    "Arabic": "Arábica",
+    "Hebrew": "Hebrea",
+    "Spanish": "Española",
+    "connectionRestored": "Conexión restaurada",
+    "disconnectedFromInternet": "desconectado de internet"
+}

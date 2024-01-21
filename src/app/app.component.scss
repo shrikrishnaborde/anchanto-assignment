@@ -1,0 +1,32 @@
+.parnet {
+    padding: 10px;
+}
+
+.parent__grid {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-auto-rows: minmax(200px,auto);
+    grid-gap: 20px 10px;
+    overflow-y: auto;
+}
+
+.parent__grid__component{
+    border : 3px solid black;
+    padding: 10px;
+}
+
+.parent__grid .fifth-component{
+    grid-column-start: 2;
+    grid-column-end: 4;
+}
+
+.parent__grid .sixth-component{
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+
+.alert{
+    position: fixed;
+    bottom: 10px;
+    left: 40%;
+}

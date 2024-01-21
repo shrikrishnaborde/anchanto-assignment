@@ -1,0 +1,20 @@
+{
+    "welcomeMessage": "صباح الخير !!.. أتمنى لك يومًا سعيدًا!",
+    "parentComponent": "المكون الأصلي",
+    "parameterValue": "قيمة المعلمة",
+    "firstComponent": "المكون الأول",
+    "secondComponent": "المكون الثاني",
+    "thirdComponent": "المكون الثالث",
+    "fourthComponent": "المكون الرابع",
+    "fifthComponent": "المكون الخامس",
+    "sixthComponent": "المكون السادس",
+    "selectedLanguage": "اللغة المختارة",
+    "selectedParamValue": "القيمة المعلمة المحددة",
+    "English": "إنجليزي",
+    "French": "فرنسي",
+    "Arabic": "عربي",
+    "Hebrew": "اللغة العبرية",
+    "Spanish": "الأسبانية",
+    "connectionRestored": "تمت استعادة الاتصال",
+    "disconnectedFromInternet": "تم قطع الاتصال بالإنترنت"
+}

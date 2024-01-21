@@ -1,0 +1,20 @@
+{
+    "welcomeMessage": "בוקר טוב!!..יום נהדר!",
+    "parentComponent": "רכיב הורה",
+    "parameterValue": "ערך פרמטר",
+    "firstComponent": "רכיב ראשון",
+    "secondComponent": "רכיב שני",
+    "thirdComponent": "רכיב שלישי",
+    "fourthComponent": "רכיב רביעי",
+    "fifthComponent": "רכיב חמישי",
+    "sixthComponent": "רכיב שישי",
+    "selectedLanguage": "שפה נבחרת",
+    "selectedParamValue": "ערך פרמטר נבחר",
+    "English": "אנגלית",
+    "French": "צָרְפָתִית",
+    "Arabic": "עֲרָבִית",
+    "Hebrew": "עִברִית",
+    "Spanish": "ספרדית",
+    "connectionRestored": "החיבור שוחזר",
+    "disconnectedFromInternet": "מנותק מהאינטרנט"
+}

@@ -1,0 +1,42 @@
+<div class="parnet">
+  <h1>{{'parentComponent' | translate}}</h1>
+
+  <div class="mb-3">
+    <label for="inputParam" class="form-label">{{'parameterValue' | translate}}</label>
+    <input #input type="text" class="form-control" [value]="valueParam | async" id="inputParam">
+  </div>
+
+
+  <div class="parent__grid">
+    <div class="parent__grid__component">
+      <first></first>
+    </div>
+
+    <div class="parent__grid__component">
+      <second></second>
+    </div>
+
+    <div class="parent__grid__component">
+      <third></third>
+    </div>
+
+    <div class="parent__grid__component fourth-component">
+      <fourth></fourth>
+    </div>
+
+    <div class="parent__grid__component fifth-component">
+      <fifth></fifth>
+    </div>
+
+    <div class="parent__grid__component sixth-component">
+      <sixth></sixth>
+    </div>
+
+  </div>
+</div>
+
+<ng-container *ngIf="showAlert">
+  <div class="alert alert-{{alertType}}" role="alert">
+    {{alertMessage | translate}}
+  </div>
+</ng-container>

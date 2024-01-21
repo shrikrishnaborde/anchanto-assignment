@@ -1,0 +1,20 @@
+{
+    "welcomeMessage": "Bonjour passe une bonne journée!",
+    "parentComponent": "Composant parent",
+    "parameterValue": "Valeur du paramètre",
+    "firstComponent": "Premier composant",
+    "secondComponent": "deuxième composant",
+    "thirdComponent": "Troisième composante",
+    "fourthComponent": "Quatrième composante",
+    "fifthComponent": "Cinquième composante",
+    "sixthComponent": "Sixième composante",
+    "selectedLanguage": "Langue sélectionnée",
+    "selectedParamValue": "Valeur du paramètre sélectionné",
+    "English": "Anglaise",
+    "French": "Français",
+    "Arabic": "arabe",
+    "Hebrew": "Hébreue",
+    "Spanish": "Espagnole",
+    "connectionRestored": "Connexion rétablie",
+    "disconnectedFromInternet": "Déconnecté d'Internet"
+}

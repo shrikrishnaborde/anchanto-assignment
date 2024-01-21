@@ -1,0 +1,20 @@
+{
+    "welcomeMessage": "Good Morning!!..Have a great day!",
+    "parentComponent": "Parent Component",
+    "parameterValue": "Parameter value",
+    "firstComponent": "First Component",
+    "secondComponent": "Second Component",
+    "thirdComponent": "Third Component",
+    "fourthComponent": "Fourth Commponent",
+    "fifthComponent": "Fifth Component",
+    "sixthComponent": "sixth Component",
+    "selectedLanguage": "Selected language",
+    "selectedParamValue": "Selected Param Value",
+    "English": "English",
+    "French": "French",
+    "Arabic": "Arabic",
+    "Hebrew": "Hebrew",
+    "Spanish": "Spanish",
+    "connectionRestored": "Connection restored",
+    "disconnectedFromInternet": "Disconnected from internet"
+}

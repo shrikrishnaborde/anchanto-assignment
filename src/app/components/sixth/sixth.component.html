@@ -1,0 +1,20 @@
+<div class="component__body__container">
+  <h2>{{'sixthComponent' | translate}}</h2>
+  <div class="component__body">
+    <div class="component__body__dropdown">
+      <button class="btn btn-sm btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown"
+        aria-expanded="false">
+        {{languageService.languageLabel$ | async | translate}}
+      </button>
+      <ul class="dropdown-menu">
+        <li (click)="setLanguage(language)" *ngFor="let language of languages;let i=index" [value]="language.value">
+            <a class="dropdown-item" href="#">{{language.label | translate}}</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="component__body__text"> 
+        {{ 'welcomeMessage' | translate}}
+    </div>
+  </div>
+</div>
